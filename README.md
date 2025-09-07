@@ -1,7 +1,5 @@
 #######################################			
-## Metadata for caterpillar collections			
-## included as part of the Lepidoptera monitoring program			
-## in the Sierra Nevada and Great Basin, USA.	
+## Metadata for caterpillar collections included as part of the Lepidoptera monitoring program in the Sierra Nevada and Great Basin, USA.	
 #######################################			
 			
 Details below are for this data file: GBSNcaterpillars2009_2025.csv			
